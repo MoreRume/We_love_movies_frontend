@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  process.env.API_BASE_URL || "http://localhost:5001";
+  process.env.API_BASE_URL || "https://welovemovies-backend-tog8.onrender.com";
 
 /**
  * Defines the default headers for these functions to work with `json-server`
